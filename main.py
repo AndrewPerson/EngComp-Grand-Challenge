@@ -1,5 +1,5 @@
 def main():
-    print("Hello from engcomp-grand-challenge!")
+    print("Hi from engcomp-grand-challenge!")
 
 
 if __name__ == "__main__":
