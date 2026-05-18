@@ -3,5 +3,5 @@ power_stations.csv: https://digital.atlas.gov.au/datasets/3d0f2d1b8aec4e1a8870b0
 land_data.csv: https://digital.atlas.gov.au/datasets/e4690e3359c94f7ba076083646e407c6_0/explore
 nsw_average_electricity_consumption_by_lga.xlsx: https://www.ausgrid.com.au/about-us/about-ausgrid/research-data-sets/average-electricity-use, https://aopt-p-001.sitecorecontenthub.cloud/api/public/content/05c9985606e34a6998a90b9e8117177a?v=e1d417aa
 qld_average_electricity_consumption_by_lga.xlsx: https://www.energex.com.au/our-network/network-data/energy-usage-data-to-share, https://www.energex.com.au/__data/assets/excel_doc/0009/1026468/Energy-Usage-LGA-31-Dec-2025.xlsx
-vic_average_electricity_consumption_by_lga.xlsx: https://www.powercor.com.au/network-planning-and-projects/network-data, https://media.powercor.com.au/wp-content/uploads/2025/08/31093009/VPN-Solar-Data-by-Postcode-and-LGA-2025.xlsx
+vic_average_solar_production_by_lga.xlsx: https://www.powercor.com.au/network-planning-and-projects/network-data, https://media.powercor.com.au/wp-content/uploads/2025/08/31093009/VPN-Solar-Data-by-Postcode-and-LGA-2025.xlsx
 lga.shp: https://digital.atlas.gov.au/datasets/9ba11864213d4df09a749f2df029627c_9/explore
