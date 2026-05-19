@@ -38,14 +38,6 @@ qld_electricity_consumption.drop("Local Government Area", axis=1, inplace=True)
 # Example plot
 import matplotlib.pyplot as plt
 
-# lga_df["geometry"].boundary.plot()
-# plt.scatter(
-#     power_stations_df["geometry"].x,
-#     power_stations_df["geometry"].y,
-#     s=power_stations_df["generationmw"] / 10 + 5
-# )
-
 renewable_generation_vs_sources.plot(plt.gca(), power_stations_df, lga_df)
 
-plt.axis("equal")
 plt.show()
